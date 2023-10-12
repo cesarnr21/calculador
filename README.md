@@ -11,8 +11,8 @@
 * purpose of `~class/function`
 
 ### Classes and Headers
-* `include/`: should hold public API headers
-* `lib/`: should hold private headers and class implemntations
+* `include/`: should hold public API headers, declared classes here
+* `src/`: should hold private headers and class implemntations, source files here
 * `bindings/` use to store c++ python bidings files
 
 
